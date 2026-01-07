@@ -1,0 +1,9 @@
+# User-generated transcripts (personal data)
+transcripts/
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
