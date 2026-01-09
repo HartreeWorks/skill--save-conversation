@@ -327,6 +327,7 @@ def format_markdown(turns: list[dict], topic: str, session_id: str) -> str:
                 parts = re.findall(r'"([^"]+)"="([^"]+)"', answer)
                 for question, response in parts:
                     lines.append(f'**{question}**')
+                    lines.append('')
                     lines.append(response)
                     lines.append('')
 
