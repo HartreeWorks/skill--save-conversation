@@ -127,7 +127,3 @@ Features:
 - Skips thinking blocks and internal metadata
 - Generates timestamped filenames with topic slugs
 - Creates the transcripts directory if needed
-
-## Update check
-
-This skill is managed by [skills.sh](https://skills.sh). To check for updates, run `npx skills update`.
