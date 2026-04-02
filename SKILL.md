@@ -93,7 +93,7 @@ The script produces a markdown file with this structure:
 
 Saved files go to:
 ```
-~/.claude/skills/save-conversation/transcripts/YYYY-MM-DD-{topic}.md
+~/.claude/skills/save-conversation/data/transcripts/YYYY-MM-DD-{topic}.md
 ```
 
 ## Workflow
